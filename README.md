@@ -23,7 +23,7 @@ Facebook-Messenger-Bot-Using-Python-Webhook-and-Wit.AI
    #### The main python Script which is to be run
    ### 2. scrapper.py
    #### the python script which is linked to main.py it does the scrapping part
-   #### 3. data.py
+   ### 3. data.py
    #### the python script which will process the data to be submitted back to the user
    ### 4. Report.pdf
    #### A detailed Report About the project and Instructions on how to use the Facebook Developer page to link the Python Script to the Messenger Platform using Webhook
