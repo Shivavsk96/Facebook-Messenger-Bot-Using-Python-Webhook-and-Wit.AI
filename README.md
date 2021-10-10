@@ -5,7 +5,7 @@ Facebook-Messenger-Bot-Using-Python-Webhook-and-Wit.AI
 ### This Project Allows for Creation of a Facebook Messenger Bot which will take data from the user and use it to find and return jobs to the User based on their needs. The jobs are obtained after Scrapping of popular Job Site eg:Naukri,Indeed,Monster
 
 
-### This Project was done by me at Curvelogics Advanced Technology Solutions (http://www.curvelogics.com/) as an Intern, after my training at Data Science Academy (http://datascience.one). Thanks to everyone there for their Continuous Support and Guidance
+### This Project was done by me at Curvelogics Advanced Technology Solutions (http://www.curvelogics.com/) as an Intern, after my training at Data Science Academy (http://datascience.one). Thanks to everyone there for their Continuous Support and Guidance Also Recieved Siginifacnt Contributions from Annu Jose and Lekshmi Raj who helped Develop better Iterations of this System
 
 
 
