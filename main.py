@@ -9,7 +9,7 @@ import os
 #page_acess_token is obtained from facebook developer page read the Attatched Report for how to get page_acess_token
 page_acess_token=#puttokenhere
 #the page_acess_token varies for each page
-acess_token="2P5AWUHZ3R55RZOQXB45FHH5OA6BU6VE"#acess token is obtained from Wit refer Report(Wit) for how to get acess_token
+acess_token="#puttokenhere"#acess token is obtained from Wit refer Report(Wit) for how to get acess_token
 client=Wit(access_token=acess_token)
 bot=Bot(page_acess_token)#passing page_acess_token to pymessenger
 app=Flask(__name__)#creating the flask class object
