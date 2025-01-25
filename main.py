@@ -7,7 +7,7 @@ from scrapper import test#importing function test from scrapper.py
 from data import scrap#importing function scrap from data.py
 import os
 #page_acess_token is obtained from facebook developer page read the Attatched Report for how to get page_acess_token
-page_acess_token="EAANOjUZBozU8BAMHmJ6yunm0L2j59kCkjnJMvUpZC77sAeELXHyHVWQukfWJW8qNh8k2nDHltKzE1itZBSK5wEDBhzJA2Aiqa3QATWaHczZAQCkzkwbxVo5L2EU3KwQbK4aEZBvsGmbbS6zuiBaTaZAFzcsgmNb7gS7axC2TRXy43JRwCAq47dre1FqsloXQgZD"
+page_acess_token=#puttokenhere
 #the page_acess_token varies for each page
 acess_token="2P5AWUHZ3R55RZOQXB45FHH5OA6BU6VE"#acess token is obtained from Wit refer Report(Wit) for how to get acess_token
 client=Wit(access_token=acess_token)
